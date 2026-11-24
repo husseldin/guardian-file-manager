@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-11 - superseded by none.** Moved from HossAI-Labs to husseldin and archived read-only. Full backup bundle: release `backup-20261124`.
+
 <div align="center">
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b548794f2ac4871a0cf7aa9ecab049f)](https://app.codacy.com/gh/gtsteffaniak/filebrowser/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
